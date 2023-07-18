@@ -1,0 +1,2 @@
+This is the write command.
+It allows us to program on python
